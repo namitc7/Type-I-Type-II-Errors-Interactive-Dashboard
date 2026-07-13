@@ -452,15 +452,7 @@ Potential improvements include:
 
 ## License
 
-No license has been selected in this README.
-
-Before distributing or accepting external contributions, add a license file to the repository. Common choices include:
-
-- MIT License
-- GNU General Public License v3.0
-- Apache License 2.0
-
-After selecting a license, replace this section with the appropriate license statement and add a `LICENSE` file to the repository.
+This project is licensed under the MIT License. See the [LICENSE) file for details.
 
 ---
 
