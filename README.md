@@ -4,11 +4,10 @@ An interactive **R Shiny** application for visualizing Type I error, Type II err
 
 The tool is designed for students, instructors, researchers, and anyone who wants an intuitive visual explanation of hypothesis-testing errors.
 
-## Live Application
+## Application
 
 [Launch the interactive tool](https://xxdm9u-namit-choudhari.shinyapps.io/type1-type2-error-tool/)
 
-> The hosted application may take a few seconds to start, particularly after a period of inactivity.
 
 ---
 
