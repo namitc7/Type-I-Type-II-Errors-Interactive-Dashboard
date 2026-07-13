@@ -375,7 +375,7 @@ They indicate that a package was built under a slightly different R version. Upd
 
 ## Contributing
 
-Contributions that improve the application, documentation, accessibility, statistical functionality, or user experience are welcome.
+We welcome contributions to improve this project. To contribute:
 
 To contribute:
 
