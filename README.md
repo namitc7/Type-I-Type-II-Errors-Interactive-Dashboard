@@ -439,18 +439,14 @@ Potential improvements include:
 - Left-tailed test support
 - User-defined null and alternative means
 - User-defined standard deviations
-- Sample-size input
-- Power and sample-size calculations
+- Power/sample-size inputs and calculations
 - Student's t-distribution support
 - Additional statistical tests
 - Downloadable graph and results
 - Dark mode
 - Accessibility improvements
 - Mobile-app or progressive-web-app version
-- Multilingual interface
 - Automated tests
-- Docker deployment
-- Continuous integration using GitHub Actions
 
 ---
 
